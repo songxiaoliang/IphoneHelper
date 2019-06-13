@@ -15,5 +15,5 @@ isIphoneXR();
 ... ...
 ```
 ### 注:
-isPlusSizeIphone(): Iphone 6, 7, 8 (包含plus)
-isXSeriesIphone(): Iphone X 系列(包含 X, XR, XS, XSMax)
+#### isPlusSizeIphone(): Iphone 6, 7, 8 (包含plus)
+#### isXSeriesIphone(): Iphone X 系列(包含 X, XR, XS, XSMax)
